@@ -1,0 +1,75 @@
+{
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Gaurav",
+        "tagline": "A student, working on web development skills, casual gamer, make and break open source projects 😅 ",
+        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--l28Fc3jF--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/640871/296a4bbe-8922-48ca-8f50-17fc0758372f.jpeg",
+        "profile_img_alt": "Author avatar",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/GauravSupehia",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/crazysamurai",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/crazysamurai",
+                "style": "icon",
+                "icon_class": "dev",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "links": [
+            {
+                "label": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true,
+                "style": "link"
+            }
+        ]
+    },
+    "title": "Stackbit Fresh Theme"
+}
