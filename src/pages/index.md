@@ -6,16 +6,14 @@ sections:
     type: section_hero
     title: "Hi, I'm Gaurav."
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Welcome to my Web Development blog.
+      This is where I share my love for Web Development with you guys by posting articles on interesting topics I come across every day.
   - section_id: about
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I'm a Computer Science student currently living in India. I've always been into computers and programming and in the past few years, I've developed a great interest in both. I'm specifically interested in Web Development and contributing to open source, I mean c'mon who doesn't like to break code 😉. I'm always working on something because there's not much to do these days.
+      Other than coding I play Badminton, do endurance running, and play games on my PC just like everyone else. I hope you enjoy reading these articles. Any feedback is appreciated. Good luck!
     actions:
       - label: Contact Me
         url: /contact
@@ -29,8 +27,8 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Web Dev Blog
+  description: A web development blog of gaurav supehia
   extra:
     - name: "og:type"
       value: website

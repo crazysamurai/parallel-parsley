@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: To get in touch please fill the form below.
+    content: To get in touch please fill the form below 👇.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -40,20 +40,20 @@ seo:
   title: Contact
   description: This is the contact page
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Contact
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: This is the contact page
       keyName: property
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Contact
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: This is the contact page
 template: advanced
 ---
